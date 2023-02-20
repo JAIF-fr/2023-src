@@ -1,0 +1,6 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2023 -- programme
+
+
+à venir.
