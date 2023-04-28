@@ -56,10 +56,10 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
 ** Comité d'organisation
 
-+   Vincent Beroulle  (local chair) -- LCIS, Université Grenoble Alpes
++   Vincent Beroulle  -- LCIS, Grenoble INP, Université Grenoble Alpes
 +   Guillaume Bouffard --  ANSSI, ENS
 +   Damien Couroussé -- CEA-List, Université Grenoble Alpes
-+   Jean-Max Dutertre -- MSE, Centre Microélectronique de Provence
++   Jean-Max Dutertre (local chair) -- MSE, Centre Microélectronique de Provence
 +   Sylvain Guilley -- Telecom ParisTech, Secure-IC
 +   Karine Heydemann -- LIP6, Sorbonne Université
 +   Marie-Laure Potet -- VÉRIMAG, Grenoble INP
