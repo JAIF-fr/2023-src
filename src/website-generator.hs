@@ -3,7 +3,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TupleSections     #-}
 
-import           Data.Monoid                   ((<>))
 import           Hakyll
 import qualified System.Process                as Process
 
