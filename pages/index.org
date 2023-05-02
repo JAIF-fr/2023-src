@@ -61,7 +61,7 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 +   Damien Couroussé -- CEA-List, Université Grenoble Alpes
 +   Jean-Max Dutertre (local chair) -- MSE, Centre Microélectronique de Provence
 +   Sylvain Guilley -- Telecom ParisTech, Secure-IC
-+   Karine Heydemann -- LIP6, Sorbonne Université
++   Karine Heydemann -- Thales DIS France
 +   Marie-Laure Potet -- VÉRIMAG, Grenoble INP
 
 Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
