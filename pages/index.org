@@ -56,13 +56,14 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
 ** Comité d'organisation
 
-+   Vincent Beroulle  -- LCIS, Grenoble INP, Université Grenoble Alpes
-+   Guillaume Bouffard --  ANSSI, ENS
-+   Damien Couroussé -- CEA-List, Université Grenoble Alpes
-+   Jean-Max Dutertre (local chair) -- MSE, Centre Microélectronique de Provence
-+   Sylvain Guilley -- Telecom ParisTech, Secure-IC
-+   Karine Heydemann -- Thales DIS France
-+   Marie-Laure Potet -- VÉRIMAG, Grenoble INP
++ Vincent Beroulle  -- LCIS, Grenoble INP, Université Grenoble Alpes
++ Guillaume Bouffard --  ANSSI, ENS
++ Damien Couroussé -- CEA-List, Université Grenoble Alpes
++ Jean-Max Dutertre (local chair) -- MSE, Centre Microélectronique de Provence
++ Sylvain Guilley -- Telecom ParisTech, Secure-IC
++ Karine Heydemann -- Thales DIS France
++ Ronan Lashermes -- INRIA Rennes
++ Marie-Laure Potet -- VÉRIMAG, Grenoble INP
 
 Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 
