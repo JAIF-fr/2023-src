@@ -39,6 +39,11 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 - Réponses aux auteurs : au plus tard le 15 juillet 2023
 - JAIF : jeudi 28 septembre 2023
 
+** Soutien institutionnel et sponsors
+
+[[mailto:jaif@saxifrage.saclay.cea.fr][Contactez-nous]]
+si vous souhaitez soutenir l'organisation de l'évènement.
+
 ** Comité d'organisation
 
 + Vincent Beroulle  -- LCIS, Grenoble INP, Université Grenoble Alpes
@@ -51,8 +56,3 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 + Marie-Laure Potet -- VÉRIMAG, Grenoble INP
 
 Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
-
-** Soutien institutionnel et sponsors
-
-[[mailto:jaif@saxifrage.saclay.cea.fr][Contactez-nous]]
-si vous souhaitez soutenir l'organisation de l'évènement.
