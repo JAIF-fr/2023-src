@@ -4,8 +4,6 @@
 
 * Journée thématique sur les attaques par injection de fautes
 
-# : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
-
 #+begin_export html
 <p style="text-align:center; font-weight: bold;">
 </p>
@@ -19,38 +17,19 @@ Centre Microélectronique de Provence, Gardanne
 </center>
 #+end_export
 
-# ** Description
+L’attaque par injection de fautes est une technique souvent exploitée par les attaquants pour extraire des données confidentielles des systèmes embarqués. Ces attaques deviennent de plus en plus complexes, avec par exemple, des injections multiples ou en les combinant avec des observations de canaux cachés.
 
-Ce workshop a pour objectif de réunir la communauté de la recherche
-française en analyse de fautes sur des systèmes de sécurité, pour
-consolider ce savoir-faire et pour faire émerger des recherches plus
-globales.  Notre communauté est très avancée sur le plan mondial, et
-travaille sur des aspects variés :
-
-+ attaques à l'aide d'injection de fautes, et modèles de fautes,
-+ simulation et méthodes formelles pour évaluer la robustesse d'un
-  système à une attaque par injection de fautes, et pour comprendre
-  l’impact des fautes,
-+ preuve de sécurité,
-+ conception de contremesures matérielles ou logicielles,
-+ application outillée de contremesures,
-+ etc.
-
-Le contexte des systèmes embarqués sécurisés évolue
-rapidement, et il est important d’envisager l’évolution des
-attaques mais aussi des systèmes.
-On assiste aujourd’hui à un changement de paradigme pour aller de
-systèmes fermés, tels que la carte à puce, vers des systèmes ouverts qui
-embarquent des enclaves sécurisées (e.g., Trusted Execution
-Environments).  Également, les attaques exploitant les injections de
-fautes deviennent plus complexes, avec par exemple la possibilité de
-réaliser des injections multiples ou la combinaison avec des
-observations de canaux cachés.
+Cette journée a pour objectif de réunir la communauté académique, industrielle et étatique pour faire émerger de nouvelles collaborations, en considérant les nombreux domaines de la physique au logiciel, pour concevoir :
+- Des outils d’injection de fautes, et les modèles de fautes,
+- Des outils de simulation et des méthodes formelles pour évaluer la robustesse, et pour comprendre l’impact des fautes,
+- Des preuves de sécurité,
+- Des protections ou mécanismes de détection matériels ou logiciels,
+- Des outils automatisant la conception de systèmes embarqués robustes
 
 Le [[./programme.html][programme de cette journée]] est construit de sorte à favoriser les
 échanges entre les participants sur l’ensemble de ces sujets, au
 travers de présentations et de discussions.
-
+La journée est composée d’exposés invités, de chercheurs ou d’industriels seniors, des exposés sélectionnés sur résumé, ainsi que des sessions posters sur le temps des pauses et du déjeuner.
 
 L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 
@@ -59,7 +38,7 @@ L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
 + Vincent Beroulle  -- LCIS, Grenoble INP, Université Grenoble Alpes
 + Guillaume Bouffard --  ANSSI, ENS
 + Damien Couroussé -- CEA-List, Université Grenoble Alpes
-+ Jean-Max Dutertre (local chair) -- MSE, Centre Microélectronique de Provence
++ Jean-Max Dutertre (organisateur local) -- MSE, Centre Microélectronique de Provence
 + Sylvain Guilley -- Telecom ParisTech, Secure-IC
 + Karine Heydemann -- Thales DIS France
 + Ronan Lashermes -- INRIA Rennes
