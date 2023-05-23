@@ -1,6 +1,33 @@
+:PROPERTIES:
+:ID:       2023-05-16T11:40:39:vencekc1wtj0
+:END:
 #+STARTUP: showall
 #+OPTIONS: toc:nil
 #+title: JAIF 2023 -- programme
 
 
+
+Le programme est en cours de construction.
+
+# *** <titre>
+#
+# <nom prénom> (<affiliation>)
+#
+# *Résumé*.
+# <résumé>
+#
+# *Bio*.
+# <bio>
+
+*** Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits
+:PROPERTIES:
+:CUSTOM_ID: daveau
+:END:
+
+*Jean-Marc Daveau* (STMicroelectronics)
+
+*Résumé*.
 à venir.
+
+*Bio*.
+Jean-Marc Daveau graduated from ENSI de Caen/Université de Caen in nuclear physics in 1992, TELECOM Paris in 1993 and received his PhD in Microelectronics from the Institut Polytechnique de Grenoble (INPG) in 1997. He joined STMicroelectronics in Crolles (France)  in 1999 after his post-doc at IBM TJ Watson research center in New York (USA). After working 10 years on embedded processors and DSP compilers, he currently works as a radiation testchip design engineer. His research interests include safety assessment of complex digital systems and SoCs, radiation testing and hardening of processors, reliability evaluation and fault tolerance.
