@@ -2,4 +2,6 @@
 #+OPTIONS: toc:nil
 #+title: JAIF
 
-à venir.
+Des *navettes* et du *covoiturage* seront mis en place *entre la gare de Aix-TGV et Gardanne*.
+
+Plus d'infos à venir.
