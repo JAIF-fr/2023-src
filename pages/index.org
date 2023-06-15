@@ -24,11 +24,9 @@ Cette journée a pour objectif de réunir la communauté académique, industriel
 - Des outils de simulation et des méthodes formelles pour évaluer la robustesse, et pour comprendre l’impact des fautes,
 - Des preuves de sécurité,
 - Des protections ou mécanismes de détection matériels ou logiciels,
-- Des outils automatisant la conception de systèmes embarqués robustes
+- Des outils automatisant la conception de systèmes embarqués robustes.
 
-Le [[./programme.html][programme de cette journée]] est construit de sorte à favoriser les
-échanges entre les participants sur l’ensemble de ces sujets, au
-travers de présentations et de discussions.
+Le [[./programme.html][programme]] est construit de sorte à favoriser les échanges entre les participants sur l’ensemble de ces sujets, au travers de présentations et de discussions.
 La journée est composée d’exposés invités, de chercheurs ou d’industriels seniors, des exposés sélectionnés sur résumé, ainsi que des sessions posters sur le temps des pauses et du déjeuner.
 
 L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
