@@ -19,8 +19,8 @@ Le programme est en cours de construction.
 # *Bio*.
 # <bio>
 
-
 ** Présentations invitées
+
 *** Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits
 :PROPERTIES:
 :CUSTOM_ID: daveau
@@ -33,6 +33,19 @@ Cette présentation aborde l'injection de fautes dans un contexte industriel pou
 
 *Bio*.
 Jean-Marc Daveau graduated from ENSI de Caen/Université de Caen in nuclear physics in 1992, TELECOM Paris in 1993 and received his PhD in Microelectronics from the Institut Polytechnique de Grenoble (INPG) in 1997. He joined STMicroelectronics in Crolles (France)  in 1999 after his post-doc at IBM TJ Watson research center in New York (USA). After working 10 years on embedded processors and DSP compilers, he currently works as a radiation testchip design engineer. His research interests include safety assessment of complex digital systems and SoCs, radiation testing and hardening of processors, reliability evaluation and fault tolerance.
+
+*** Injection de fautes et réseaux de neurones embarqués : intégrité et confidentialité des modèles
+:PROPERTIES:
+:CUSTOM_ID: moellic
+:END:
+
+*Pierre-Alain Moëllic* (CEA-Leti)
+
+*Résumé*.
+Dans un contexte de développement et de ploiement sans précédent des algorithmes d'intelligence artificielle (IA) et de tentatives de régulation de leurs usages (e.g., AI Act européen), la sécurité des systèmes d'IA est devenue une préoccupation majeure. Parmi les très nombreuses attaques visant l'intégrité, la confidentialité et la disponiblité des modèles et des données, des travaux récents ont démontrés l'importance des menaces physiques et plus particulièrement des attaques par injection de fautes. Cette présentation s'intéressera à plusieurs vecteurs d'attaque qui peuvent modifier la prédiction d'un modèle de réseau de neurones profond et ainsi altérer l'intégrité d'un système reposant sur ce type de modèle. Nous verrons que l'intégrité est loin d'être le seul objectif d'un attaquant. Les attaques dites d'"extraction de modèle" qui visent des modèles boites noires peuvent significativement tirer profit d'analyses par injection de fautes. Outre les besoins urgents de protections (réalistes), ces nouvelles attaques soulignent aussi les défis associés à l'évaluation de la robustesse de modèles de machine learning.
+
+*Bio*.
+Pierre-Alain Moëllic est ingénieur de recherche au CEA-Leti dans une équipe commune avec Mines Saint-Etienne au sein du Centre de Microélectronique de Provence (Gardannes). Il est le coordinateur du programme ANR PICTURE sur la sécurité physique et intrinsèque des réseaux de neurones embarqués et responsable du consortium Français dans le projet Européen INSECTT avec des travaux sur la sécurité de l'IA dans l'IoT. Il coordonne au sein du programme PULSE (IRT Nanoelec) la thématique de la sécurité de l'IA pour la santé à domicile.
 
 ** Présentations
 
