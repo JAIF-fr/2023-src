@@ -19,20 +19,28 @@ Le programme est en cours de construction.
 # *Bio*.
 # <bio>
 
+| 09h00 |                       | Ouverture de la salle & accueil café                                                                                                                            |
+|       |                       |                                                                                                                                                                 |
+| 09h30 | Jean-Max Dutertre     | Ouverture de la journée & mot d'accueil                                                                                                                         |
+| 09h40 |                       | *Session 1 -- Caractérisation et vulnérabilités #1*                                                                                                               |
+|       | [[#moellic][Pierre-Alain Moëllic]]  | Injection de fautes et réseaux de neurones embarqués : intégrité et confidentialité des modèles                                                                 |
+|       |                       |                                                                                                                                                                 |
+| 10h45 |                       | Pause café - [[#posters][session posters]]                                                                                                                                    |
+| 11h30 |                       | *Session 2 -- Analyse de programmes*                                                                                                                              |
+| 12h30 |                       | Déjeuner                                                                                                                                                        |
+| 14h00 |                       | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |
+|       | [[#daveau][Jean-Marc Daveau]]      | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |
+|       |                       |                                                                                                                                                                 |
+|       | [[#hely][David Hély]]            | Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité |
+|       |                       |                                                                                                                                                                 |
+| 15h05 |                       | Pause café - [[#posters][session posters]]                                                                                                                                    |
+| 15h45 |                       | *Session 4 -- Caractérisation et vulnérabilités #2*                                                                                                               |
+| 16h45 | Comité d'organisation | Mot de clôture de la journée                                                                                                                                    |
+|       |                       |                                                                                                                                                                 |
+| 17h00 |                       | Fin de la journée                                                                                                                                               |
+
+
 ** Présentations invitées
-
-*** Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits
-:PROPERTIES:
-:CUSTOM_ID: daveau
-:END:
-
-*Jean-Marc Daveau* (STMicroelectronics)
-
-*Résumé*.
-Cette présentation aborde l'injection de fautes dans un contexte industriel pour le durcissement de circuits. Les applications incluent le durcissement d'un SERDES, d'un CPU SPARC/LEON, et la prédiction de résultats radiatifs par machine learning. L'utilisation dans le cadre de la certification ISO26262 est mentionnée. Les limites rencontrées en simulation sont évoquées ainsi que le développement d’une approche par injection de fautes formelle visant à pallier à certaines limitations de celle-ci. Les résultats préliminaires de durcissement sélectif par injection de fautes formelle sont présentés ainsi qu’une approche basée sur les modèles et la composition. Les perspectives de recherche concluent la présentation.
-
-*Bio*.
-Jean-Marc Daveau graduated from ENSI de Caen/Université de Caen in nuclear physics in 1992, TELECOM Paris in 1993 and received his PhD in Microelectronics from the Institut Polytechnique de Grenoble (INPG) in 1997. He joined STMicroelectronics in Crolles (France)  in 1999 after his post-doc at IBM TJ Watson research center in New York (USA). After working 10 years on embedded processors and DSP compilers, he currently works as a radiation testchip design engineer. His research interests include safety assessment of complex digital systems and SoCs, radiation testing and hardening of processors, reliability evaluation and fault tolerance.
 
 *** Injection de fautes et réseaux de neurones embarqués : intégrité et confidentialité des modèles
 :PROPERTIES:
@@ -46,6 +54,19 @@ Dans un contexte de développement et de ploiement sans précédent des algorith
 
 *Bio*.
 Pierre-Alain Moëllic est ingénieur de recherche au CEA-Leti dans une équipe commune avec Mines Saint-Etienne au sein du Centre de Microélectronique de Provence (Gardannes). Il est le coordinateur du programme ANR PICTURE sur la sécurité physique et intrinsèque des réseaux de neurones embarqués et responsable du consortium Français dans le projet Européen INSECTT avec des travaux sur la sécurité de l'IA dans l'IoT. Il coordonne au sein du programme PULSE (IRT Nanoelec) la thématique de la sécurité de l'IA pour la santé à domicile.
+
+*** Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits
+:PROPERTIES:
+:CUSTOM_ID: daveau
+:END:
+
+*Jean-Marc Daveau* (STMicroelectronics)
+
+*Résumé*.
+Cette présentation aborde l'injection de fautes dans un contexte industriel pour le durcissement de circuits. Les applications incluent le durcissement d'un SERDES, d'un CPU SPARC/LEON, et la prédiction de résultats radiatifs par machine learning. L'utilisation dans le cadre de la certification ISO26262 est mentionnée. Les limites rencontrées en simulation sont évoquées ainsi que le développement d’une approche par injection de fautes formelle visant à pallier à certaines limitations de celle-ci. Les résultats préliminaires de durcissement sélectif par injection de fautes formelle sont présentés ainsi qu’une approche basée sur les modèles et la composition. Les perspectives de recherche concluent la présentation.
+
+*Bio*.
+Jean-Marc Daveau graduated from ENSI de Caen/Université de Caen in nuclear physics in 1992, TELECOM Paris in 1993 and received his PhD in Microelectronics from the Institut Polytechnique de Grenoble (INPG) in 1997. He joined STMicroelectronics in Crolles (France)  in 1999 after his post-doc at IBM TJ Watson research center in New York (USA). After working 10 years on embedded processors and DSP compilers, he currently works as a radiation testchip design engineer. His research interests include safety assessment of complex digital systems and SoCs, radiation testing and hardening of processors, reliability evaluation and fault tolerance.
 
 *** Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité
 :PROPERTIES:
@@ -65,5 +86,8 @@ Afin de faciliter la prise en compte des risques induits par les attaques en fau
 tbd.
 
 ** Sessions posters
+:PROPERTIES:
+:CUSTOM_ID: posters
+:END:
 
 tbd.
