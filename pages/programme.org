@@ -7,7 +7,7 @@
 
 Le programme est en cours de construction.
 
-Nous proposons aux participants de JAIF de [[../infos-pratiques.html#social event][poursuivre la journée avec un social event]] à proximité du CMP.  Détails à venir.
+Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event][poursuivre la journée avec un social event]] à proximité du CMP.  Détails à venir.
 
 # *** <titre>
 #
@@ -39,7 +39,7 @@ Nous proposons aux participants de JAIF de [[../infos-pratiques.html#social even
 |       |                       |                                                                                                                                                                 |
 | 17h00 |                       | Fin de la journée                                                                                                                                               |
 |       |                       |                                                                                                                                                                 |
-| tbd.  |                       | [[../infos-pratiques.html#social event][Social Event]]                                                                                                                                                    |
+| tbd.  |                       | [[./infos-pratiques.html#social event][social event]]                                                                                                                                                    |
 
 
 
