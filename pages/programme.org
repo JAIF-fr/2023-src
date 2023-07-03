@@ -76,12 +76,13 @@ Jean-Marc Daveau graduated from ENSI de Caen/Université de Caen in nuclear phys
 :CUSTOM_ID: hely
 :END:
 
-*David Hely* (LCIS)
+*David Hély* (LCIS, Grenoble INP-UGA)
 
 *Résumé*.
 Afin de faciliter la prise en compte des risques induits par les attaques en fautes dès les premières étapes de la conception des circuits, il est nécessaire de fournir aux concepteurs des outils permettant  d'identifier au plus tôt les éléments les plus sensibles face à ce type d'attaque. Nous aborderons dans cette présentation les enjeux liés au développement d'outil d'aide à la conception en vue de la sécurité dédié aux attaques en faute. En effet, une telle approche nécessite de développer des modèles de ces attaques à des niveaux suffisamment élevés (ici le niveau RTL), de développer des métriques  pour  quantifier les risques et de développer des outils compatibles avec les flots de conception industriels. Nous illustrerons ces éléments avec un prototype développé au LCIS.
 
-# *Bio*.
+*Bio*.
+David Hély est enseignant-chercheur à Grenoble INP-UGA et effectue ses recherches au laboratoire LCIS. Il est diplômé de l’INSA Lyon et d’un doctorat de l’Université de Montpellier 2 portant sur la conception en vue du test des circuits sécurisés avec STMicroelectronics et le LIRMM. Ses thématiques de recherche concernent la conception et l’évaluation de systèmes sécurisés et le support matériel pour la sécurité des systèmes.
 
 
 ** Présentations
