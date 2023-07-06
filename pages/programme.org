@@ -19,29 +19,56 @@ Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event
 # *Bio*.
 # <bio>
 
-| 09h00 |                       | Ouverture de la salle & accueil café                                                                                                                            |
-|       |                       |                                                                                                                                                                 |
-| 09h30 | Jean-Max Dutertre     | Ouverture de la journée & mot d'accueil                                                                                                                         |
-| 09h40 |                       | *Session 1 -- Caractérisation et vulnérabilités #1*                                                                                                               |
-|       | [[#moellic][Pierre-Alain Moëllic]]  | Injection de fautes et réseaux de neurones embarqués : intégrité et confidentialité des modèles                                                                 |
-|       |                       |                                                                                                                                                                 |
-| 10h45 |                       | Pause café - [[#posters][session posters]]                                                                                                                                    |
-| 11h30 |                       | *Session 2 -- Analyse de programmes*                                                                                                                              |
-| 12h30 |                       | Déjeuner                                                                                                                                                        |
-| 14h00 |                       | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |
-|       | [[#daveau][Jean-Marc Daveau]]      | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |
-|       |                       |                                                                                                                                                                 |
-|       | [[#hely][David Hély]]            | Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité |
-|       |                       |                                                                                                                                                                 |
-| 15h05 |                       | Pause café - [[#posters][session posters]]                                                                                                                                    |
-| 15h45 |                       | *Session 4 -- Caractérisation et vulnérabilités #2*                                                                                                               |
-| 16h45 | Comité d'organisation | Mot de clôture de la journée                                                                                                                                    |
-|       |                       |                                                                                                                                                                 |
-| 17h00 |                       | Fin de la journée                                                                                                                                               |
-|       |                       |                                                                                                                                                                 |
-| tbd.  |                       | [[./infos-pratiques.html#social event][social event]]                                                                                                                                                    |
+# 9h40		session caracterisation 1
+# talk invité		PA Moellic	20 minutes + 5 min question
+# talk 1		Chancel	15 minutes + 5 min question
+# talk 2		Marotta	15 minutes + 5 min question
+# 10h45
+# 	pause + poster
+# 11h30		session analyse de programmes
+#  talk 1		Gicquel	15 minutes + 5 min question
+#  talk 2		Ducousso	15 minutes + 5 min question
+#  talk 3		Boepflug	15 minutes + 5 min question
+# 12h30
+# 	dejeuner
+# 14h00		Methodes et outils pour la surete et la sécurité
+# talk invité		ST	20 minutes + 5 min question
+# talk invité		David Hély	20 minutes + 5 min question
+#  talk 1		Alexandre Iooss	15 minutes + 5 min question
+# 15h05
+# 	pause + poster
+# 15h45		Session caracterisation et vulnerabilités
+#  talk 1		DIFT Pensec	15 minutes + 5 min question
+#  talk 2		Poster-Pellerin	15 minutes + 5 min question
+# talk 3		Grandamme	15 minutes + 5 min question
+# 16h45
+# 	cloture + bye
+# 17h
 
-
+| 09h00 |                         | Ouverture de la salle & accueil café                                                                                                                            |
+| 09h30 | Jean-Max Dutertre       | Ouverture de la journée & mot d'accueil                                                                                                                         |
+| 09h40 |                         | *Session 1 -- Caractérisation et vulnérabilités #1*                                                                                                               |
+|       | [[#moellic][Pierre-Alain Moëllic]]    | Injection de fautes et réseaux de neurones embarqués : intégrité et confidentialité des modèles                                                                 |
+|       | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                                                     |
+|       | Amélie Marotta          | Characterizing and Modeling Clock-Glitch Fault Injection                                                                                                        |
+| 10h45 |                         | Pause café - [[#posters][session posters]]                                                                                                                                    |
+| 11h30 |                         | *Session 2 -- Analyse de programmes*                                                                                                                              |
+|       | Antoine Gicquel         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                                               |
+|       | [[#ducousso][Soline Ducousso]]         | Adversarial Reachability for Program-level Security Analysis                                                                                                    |
+|       | Étienne Boespflug       | Placement of software countermeasures: a compositional approach                                                                                                 |
+| 12h30 |                         | Déjeuner                                                                                                                                                        |
+| 14h00 |                         | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |
+|       | [[#daveau][Jean-Marc Daveau]]        | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |
+|       | [[#hely][David Hély]]              | Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité |
+|       | [[#iooss][Alexandre Iooss]]         | Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches                                                                           |
+| 15h05 |                         | Pause café - [[#posters][session posters]]                                                                                                                                    |
+| 15h45 |                         | *Session 4 -- Caractérisation et vulnérabilités #2*                                                                                                               |
+|       | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks                                          |
+|       | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                                            |
+|       | [[#grandamme][Paul Grandamme]]          | Injection de fautes aux Rayons X sur des composants non alimentés                                                                                               |
+| 16h45 | Comité d'organisation   | Mot de clôture de la journée                                                                                                                                    |
+| 17h00 |                         | Fin de la journée                                                                                                                                               |
+| tbd.  |                         | [[./infos-pratiques.html#social event][social event]]                                                                                                                                                    |
 
 ** Présentations invitées
 
@@ -84,14 +111,156 @@ Afin de faciliter la prise en compte des risques induits par les attaques en fau
 *Bio*.
 David Hély est enseignant-chercheur à Grenoble INP-UGA et effectue ses recherches au laboratoire LCIS. Il est diplômé de l’INSA Lyon et d’un doctorat de l’Université de Montpellier 2 portant sur la conception en vue du test des circuits sécurisés avec STMicroelectronics et le LIRMM. Ses thématiques de recherche concernent la conception et l’évaluation de systèmes sécurisés et le support matériel pour la sécurité des systèmes.
 
-
 ** Présentations
 
-tbd.
+*** Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat
+:PROPERTIES:
+:CUSTOM_ID: chancel
+:END:
+
+ *Geoffrey Chancel* (Université de Montpellier, LIRMM)
+
+ *Résumé*.
+ La présentation que nous proposons porte sur mon sujet de thèse : L’injection de fautes par impulsion dans le substrat, aussi nommée en anglais Body Biasing Injection (BBI), abréviation que nous utiliserons dans la suite de ce document.
+
+Nous proposons de présenter les dernières avancées de nos travaux sur ce sujet, en particulier concernant les bonnes pratiques à adopter lors de la mise en place de la BBI. En effet, lors de nos études, nous nous sommes aperçus que pour accomplir des attaques par fautes grâce à cette méthode, il était nécessaire de prendre en compte de nombreux paramètres de la plateforme utilisée, comme la ligne de transmission, les interconnexions de masse entre les équipements, ou bien l’adaptation d’impédance du générateur d’impulsions. Nous proposons donc des améliorations de la pratique de la BBI. Grâce à ces dernières, nous sommes parvenus à mener une attaque par fautes sur un cœur AES 128 bits matériel, embarqué dans un microcontrôleur. L’attaque réalisée est fondée sur le modèle de faute mono bit de Giraud [1].
+
+Enfin, nous présentons une méthode permettant de simuler et d’évaluer le comportement électrique des circuits intégrés soumis à la BBI. Pour ce faire, nous avons élaboré des modèles électriques élémentaires, qui, lorsqu’ils sont multipliés et connectés entre eux, permettent de modéliser des circuits intégrés et de comprendre les mécanismes sous-jacents impliqués dans la pratique de la BBI.
+
+ *Bio*.
+ À l’issue d’un baccalauréat scientifique, j’ai intégré l’école d’ingénieur Polytech Montpellier. Diplômé en 2020 d’un diplôme d’ingénieur en électronique et informatique industrielle, j’ai poursuivi, à la suite de mes études, un doctorat au sein du Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier (LIRMM). Le sujet de celui-ci est l’injection de fautes par impulsion dans le substrat, plus particulièrement la modélisation et la meilleure compréhension de cette méthode.
+
+*** Adversarial Reachability for Program-level Security Analysis
+:PROPERTIES:
+:CUSTOM_ID: ducousso
+:END:
+
+ *Soline Ducousso* (Université Paris-Saclay, CEA, List, Saclay, France)
+
+ *Résumé*.
+ Hardware fault injection attacks are a powerful attack vector, disturbing the execution of a program through various injection means. However, many more attack techniques yield attacker capabilities that can be seen as fault injection, ranging from software attacks to micro-architectural attacks and software-implemented hardware attacks.
+
+ In this work, we introduce adversarial reachability, a framework allowing to reason about such advanced attackers at code level and assess program vulnerability to a particular attacker.
+ Our approach is based on a new symbolic exploration algorithm, namely adversarial symbolic execution, injecting faults in a forkless manner to prevent path explosion, together with optimizations dedicated to reducing the number of injections to consider while keeping the same attacker power. Experiments on representative benchmarks from fault injection show that our method significantly reduces the number of adversarial paths to explore. In addition, we demonstrate the interest and feasibility of our technique on the well-tested WooKey bootloader.
+
+ *Bio*.
+ Soline Ducousso obtained her engineering degree from ENSTA Paris in 2020 in the fields of cybersecurity and software architecture, and a Master degree from Université Paris-Saclay the same year in theoretical computer science and formal methods. She is currently conducting her PhD at the LSL lab in the French Alternative Energies and Atomic Energy Commission (CEA), in association with VERMIAG lab in Université Grenoble Alpes. Her subject is moving code analysis from safety to security: taking the attacker into account.
+
+*** Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches
+:PROPERTIES:
+:CUSTOM_ID: iooss
+:END:
+
+*Alexandre Iooss* (ANSSI - Laboratoire Sécurité des Composants),
+Guillaume Bouffard (ANSSI - Laboratoire Architecures Matérielles et Logicielles)
+
+ *Résumé*.
+Les attaques par faute constituent un vecteur d'attaque semi-invasif puissant et difficile
+à prévenir dans l'applicatif si l'environnement
+d'exécution matérielle n'embarque pas de mécanismes de protection. Néanmoins
+ces attaques sont difficiles à mettre en place et les réussir nécessite trois étapes :
+caractériser les effets de la faute sur un échantillon du composant exécutant
+une application de profilage [4], utiliser ce modèle de faute sur l'application sensible (en simulation
+par exemple) afin de déterminer les chemins d'attaques possibles [2] et
+exploiter l'effet de la faute injectée sur le composant cible [3]. Dans la littérature,
+ce travail reste principalement porté sur la sécurité des implémentations cryptographiques
+[5,6] implémentées sur des micro-contrôleurs.
+
+Cependant, avec la démocratisation des appareils portables tels
+que les smartphones, la menace des attaques semi-invasives devient crédible pour
+des applications plus variées. Nous pensons que pour protéger efficacement ces
+systèmes, il est nécessaire d'avoir une méthodologie d'analyse de la réponse de ce
+type d'applications à des effets d'une faute sur le matériel jusqu'à sa manifestation
+sur les logiciels haut niveau.
+
+Dans cette présentation, nous aborderons une analyse complète allant de
+la caractérisation des effets d'une faute électromagnétique à l'exploitation sur
+une application complexe sensible. Pour ce faire, nous examinerons la sécurité
+de l'implémentation de l'application sudo intégrée dans la distribution GNU/Linux
+Raspberry Pi OS Lite (https://www.raspberrypi.com/software/) pour Raspberry Pi 4.
+Dans ce travail, nous montrons comment il est possible de transposer une caractérisation
+de la sensibilité à une application logicielle complexe, et comment, en l'absence de protections,
+il est possible de réaliser efficacement une attaque permettant l'escalation de privilèges.
+En complément de l'approche présentée dans [1], notre méthode est suffisamment efficace pour
+forcer l'authentification via l'application sudo sans la modifier au préalable.
+
+1. Gaine, C., Aboulkassimi, D., Pontié, S., Nikolovski, J., Dutertre, J. : Electromagnetic Fault Injection as a New Forensic Approach for SoCs. In : 12th IEEE International Workshop on Information Forensics and Security, WIFS 2020, New York City, NY, USA, December 6-11, 2020. pp. 1–6. IEEE (2020).
+
+2. Gicquel, A., Hardy, D., Heydemann, K., Rohou, E. : SAMVA : Static Analysis for Multi-fault Attack Paths Determination. In : Kavun, E.B., Pehl, M. (eds.) Constructive Side-Channel Analysis and Secure Design - 14th International Workshop, COSADE 2023, Munich, Germany, April 3-4, 2023, Proceedings. Lecture Notes in Computer Science, vol. 13979, pp. 3–22. Springer (2023). https://doi.org/10.1007/978-3-031-29497-6_1
+
+3. Timmers, N., Mune, C. : Escalating Privileges in Linux Using Voltage Fault Injection. In : 2017 Workshop on Fault Diagnosis and Tolerance in Cryptography, FDTC 2017, Taipei, Taiwan, September 25, 2017. pp. 1–8. IEEE Computer Society (2017).
+
+4. Trouchkine, T., Bouffard, G., Clédière, J. : EM Fault Model Characterization on SoCs : From Different Architectures to the Same Fault Model. In : 18th Workshop on Fault Detection and Tolerance in Cryptography, FDTC 2021, Milan, Italy, September 17, 2021. pp. 31–38. IEEE (2021).
+
+5. Trouchkine, T., Bukasa, S.K., Escouteloup, M., Lashermes, R., Bouffard, G. : Electromagnetic fault injection against a complex CPU, toward new micro-architectural fault models. Journal of Cryptographic Engineering 11(4), 353–367 (2021).
+
+6. Zhang, F., Zhang, Y., Jiang, H., Zhu, X., Bhasin, S., Zhao, X., Liu, Z., Gu, D., Ren, K. : Persistent Fault Attack in Practice. IACR Transactions on Cryptographic Hardware and Embedded Systems 2020(2), 172–195 (2020).
+
+*Bio*.
+Alexandre Iooss est ingénieur de recherche à l'ANSSI à Rennes.
+Ses travaux portent sur le développement d'outils d'analyse de la sécurité matérielle. Il
+développe des simulateurs de canaux auxiliaires et d'injections de fautes. Il se passionne
+également pour le développement de logiciels libres.
+
+Guillaume Bouffard est chercheur en securité des implémentations logicielles embarquées à l'ANSSI à Paris.
+Ses travaux portent sur la sécurité des implémentations de la racine de confiance. Il se
+focalise principalement sur les problématiques de sécurité du logiciel embarqué aux interfaces
+logicielles/matérielles.
+
+*** Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks
+:PROPERTIES:
+:CUSTOM_ID: pensec
+:END:
+
+*William Pensec* (UMR 6285, Lab-STICC, Université Bretagne Sud)
+
+ *Résumé*.
+L'internet des objets (IoT) manipulent des données sensibles, ce qui entraîne des besoins de sécurité fiables. Ils sont confrontés à des attaques logicielles et physiques en raison de leur connectivité réseau et de leur proximité avec les attaquants. Ces appareils sont généralement construits autour de processeurs à faible coût et à faible puissance. Dans ce travail, nous étudions l'impact des attaques par injection de fautes (FIA) sur le processeur D-RI5CY intégrant un mécanisme de suivi dynamique du flux d'informations (DIFT) contre les attaques logicielles. Nos résultats mettent en évidence la grande sensibilité de la cible à de multiples types de fautes à de multiples emplacements spatiaux et temporels.
+
+ *Bio*.
+William Pensec a obtenu son Master en Informatique avec une spécialisation en logiciels pour les systèmes embarqués à l'Université de Bretagne Occidentale (UBO), à Brest, en 2021. Il a rejoint l'équipe ARCAD au sein du laboratoire Lab-STICC en France et a commencé son doctorat en 2021 dans le domaine de la sécurité matérielle à l'Université Bretagne Sud à Lorient. Ses recherches portent sur la sécurité des systèmes embarqués, RISC-V, les attaques par injection de fautes, dans le but de protéger un cœur RISC-V contre les attaques logicielles et physiques.
+
+*** Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM
+:PROPERTIES:
+:CUSTOM_ID: postel-pellerin
+:END:
+
+ *Jérémy Postel-Pellerin* (Aix Marseille University, CNRS, IM2NP, Marseille, France)
+
+ *Résumé*.
+ Le projet MISTRAL, coordonné par Mines Saint-Etienne à Gardanne, en collaboration avec le CEA, Spintec et l'IM2NP est financé par l'Agence Nationale de la Recherche (projet ANR- 19-CE39-0010) dans le but de sécuriser des algorithmes de cryptographie légère par hybridation CMOS/STT-MRAM.
+
+En effet, le domaine de la microélectronique est fortement stimulé par l'avènement de l'Internet des objets (IoT) et les objets connectés doivent être bon marché et très peu consommateurs en énergie, mais aussi très fiables et sécurisés. Néanmoins, la sécurité est bien connue pour avoir un coût en termes de consommation d'énergie et de surface de silicium. Ainsi, la cryptographie dite "légère" (ou LightWeight Cryptography-LWC) devrait alors jouer un rôle majeur pour le développement de l'IoT. Ces algorithmes doivent être implantés de manière sécurisée afin de faire face aux attaques physiques (analyse par canaux auxiliaires ou attaques basées sur les perturbations), mais les contre-mesures proposées sont consommatrices en énergie. Ainsi, en raison de ses faibles besoins en énergie, il devient possible d'hybrider des mémoires STT-MRAM avec le CMOS, puis de construire une logique non-volatile (NV), pour les objets connectés qui doivent se réveiller sur un événement et conserver le stockage des données lorsque le circuit est sporadiquement éteint.
+
+Dans ce contexte, cette présentation se focalise sur le développement d'un banc mixte mêlant injection laser et caractérisation électrique dynamique, ainsi que sur l'effet de ce laser sur la cellule STT-MRAM. Nous présentons la variation du courant de la cellule pendant l’illumination laser dans une condition de lecture pour différentes puissances du laser. L'établissement d'un courant excessif ou insuffisant, selon le signe de la tension de lecture, peut avoir un impact sur les circuits de détection utilisés pour lire la cellule, ou dans une configuration de circuit hybride. Pour comprendre en profondeur le comportement de la cellule, nous avons vérifié qu'il est possible d'obtenir une commutation de la cellule d'un état pour lequel les aimantations des deux couches ferromagnétiques de la Jonction Tunnel Magnétique sont en configuration Anti-Parallèle (état AP de forte résistivité) à un état en configuration Parallèle (état P de faible résistivité) sans dégradation. La tension de lecture, la durée d’injection, ainsi que la taille de la cellule, ont un impact sur la probabilité de commutation et doivent être pris en compte pour développer un mécanisme de protection. Enfin, nous démontrons la corrélation directe entre la puissance du laser et la température pendant la phase de programmation, montrant la réduction de la fenêtre de programmation en fonction de ces deux aspects physiques. Il est donc possible d'émuler une attaque au laser en tenant compte des variations du modèle électrique dans une large plage de température. Enfin, le modèle associé à ces injections laser sur les STT-MRAM sera utilisé pour la conception par hybridation STT-MRAM/CMOS du circuit de cryptographie légère ASCON.
+
+ *Bio*.
+ Né en 1982, Jérémy Postel-Pellerin a obtenu son diplôme d'ingénieur et son doctorat de l'Université d'Aix-Marseille en 2005 et 2008 respectivement. Il a rejoint l'équipe Mémoires de l'Institut Matériaux Microélectronique Nanosciences de Provence (IM2NP), à Marseille, en France, en 2009, et est devenu maître de conférences à l'Université d'Aix-Marseille. Ses domaines de recherche actuels comprennent la caractérisation électrique, la modélisation et la simulation TCAD des mémoires, notamment pour des études de fiabilité et de sécurité.
+
+*** Injection de fautes aux Rayons X sur des composants non alimentés
+:PROPERTIES:
+:CUSTOM_ID: grandamme
+:END:
+
+ *Paul Grandamme* (Laboratoire Hubert Curien - Université Jean Monnet de Saint-Éteinne, Mines Saint-Étienne)
+
+ *Résumé*.
+ Depuis de nombreuses années, les composants électroniques ont pris une place de plus en plus importante dans nos vies. Leur sécurité est devenue un enjeu crucial car ils peuvent contenir des informations sensibles. Pour s’assurer de leur sécurité de nouveaux moyens d’injection de fautes ont été mis en place. Les effets des rayons X sur les circuits électroniques sont étudiés depuis quelques décennies mais seulement quelques travaux ont été menés sur l’aspect sécuritaire. L’état de l’art nous montre que les rayons X peuvent avoir un effet sur les circuits non alimentés contrairement aux autres moyens d’injection de faute (électromagnétique, laser).
+
+Cette étude fournit des résultats expérimentaux d’injections de fautes aux rayons X sur des microcontrolleurs non alimentés en énergie. On s’intéresse notamment aux mémoires non-volatiles embarquées dans les microcontrolleurs. Cette présentation montre qu’il est possible de corrompre le contenu d’une mémoire non alimentée. De plus, un modèle de faute en accord avec les résultats expérimentaux est aussi proposé. Enfin, il est aussi montré qu’une récupération thermique est aussi possible après injection.
+
+ *Bio*.
+ Paul Grandamme est doctorant au laboratoire Hubert Curien de l’Université Jean Monnet de Saint-Étienne. Après des études à l’École des Mines de Saint-Étienne (EMSE) au sein du cursus ISMIN (Ingénieur Spécialisé Microélectronique et INformatique) orienté sur la conception en microélectronique, il effectue son stage de fin d’étude dans le département Systèmes et Architectures Sécurisés (SAS) de l’EMSE sur l’analyse Side-Channel des communications par fibre optique. Il réalise actuellement sa thèse sur l’étude des attaques par injection de fautes sur des circuits non alimentés dans le cadre du projet ANR POP.
 
 ** Sessions posters
 :PROPERTIES:
 :CUSTOM_ID: posters
 :END:
 
-tbd.
+|   | Vincent Beroulle        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                            |
+|   | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                            |
+|   | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks |
+|   | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                   |
+|   | Souhir Mhira            | Secure Manager                                                                                                         |
+|   | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                        |
+|   | Hongwei Zhao            | Fault attack on the communication architecture of a RISC-V based system                                                |
