@@ -2,11 +2,68 @@
 #+OPTIONS: toc:nil
 #+title: JAIF
 
-Des *navettes* et du *covoiturage* seront mis en place *entre la gare de Aix-TGV et Gardanne*.
+# Des *navettes* et du *covoiturage* seront mis en place *entre la gare de Aix-TGV et Gardanne*.
 
-Plus d'infos à venir.
 
-** social event
+
+** Lieu
+:PROPERTIES:
+:CUSTOM_ID: where
+:END:
+
+Grand Amphithéâtre, Centre Microélectronique de Provence, Mines Saint-Étienne, Campus Provence (Georges Charpak)
+
+880, route de Mimet
+
+F-13541 Gardanne
+
+Transport : Bus n° 183, arrêt “Centre Charpak”
+
+Coordonnées téléphoniques Campus de Gardanne : +33 4 42 61 66 00
+
+Plan d’accès : [[https://www.mines-stetienne.fr/plans-dacces][Comment venir sur le Campus Provence (Georges Charpak)]]
+
+Coordonnées GPS: 43° 26’ 44″ N / 05° 28’ 47″ E
+
+** Navettes gare TGV Aix en Provence/Gare Gardanne – CMP
+:PROPERTIES:
+:CUSTOM_ID: navettes
+:END:
+
+
+Une navette sera spécialement affrétée pour les participants de JAIF, entre la gare TGV d’Aix-en-Provence et le CMP (arrêt intermédiaire à la gare de Gardanne).
+
+Une solution de  *covoiturage* sera également mise en place *entre la gare de Aix-TGV et Gardanne*.
+
+Les horaires seront précisés ultérieurement.
+
+** Accès en transports en commun depuis la gare SNCF de Gardanne
+
+Il existe des navettes régulières par la ligne 3 (Omnibus Gardanne) entre la Gare et le campus de Gardanne le matin et en fin d’après-midi.
+- Réservation possible entre 9h30 et 15h45 (la veille ou au minimum 4 heures avant la course).
+- Numéro vert : 0 800 00 32 35.
+- En savoir plus : https://www.ville-gardanne.fr.
+
+
+L’école est desservie par la ligne de bus n° 183, arrêt « Centre Charpak ».
+
+
+
+Vous pourrez y prendre aussi un bus de la ligne 64, qui permet, entre autres, de rejoindre la gare Saint-Charles, à Marseille, en 30 minutes.
+
+
+
+** Hotels
+
+Nous vous recommandons de vous loger à Aix-en-Provence pour venir assister à JAIF 2023. Nous prévoyons la mise en place d’une navette et de covoiturage entre Aix et le CMP à Gardanne.
+
+
+
+-  Appart'Hôtel Odalys City L'Atrium, 15 Cr Gambetta, 13100 Aix-en-Provence, Téléphone : 04 42 99 16 00.
+-  Hôtel le Mozart, 49 Cr Gambetta, 13100 Aix-en-Provence, Téléphone : 04 42 21 62 86.
+
+
+** Social Event
 :PROPERTIES:
 :CUSTOM_ID: social event
 :END:
