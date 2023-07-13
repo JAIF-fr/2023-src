@@ -55,7 +55,7 @@ Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event
 | 11h30 |                         | *Session 2 -- Analyse de programmes*                                                                                                                              |
 |       | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                                               |
 |       | [[#ducousso][Soline Ducousso]]         | Adversarial Reachability for Program-level Security Analysis                                                                                                    |
-|       | Étienne Boespflug       | Placement of software countermeasures: a compositional approach                                                                                                 |
+|       | [[#boespflug][Étienne Boespflug]]       | Placement of software countermeasures: a compositional approach                                                                                                 |
 | 12h30 |                         | Déjeuner                                                                                                                                                        |
 | 14h00 |                         | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |
 |       | [[#daveau][Jean-Marc Daveau]]        | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |
@@ -161,6 +161,7 @@ Multi-fault injection attacks are powerful since they allow to bypass software s
 
  *Bio*.
 Antoine Gicquel is a second year Ph.D student in the PACAP team at Inria laboratory of the University of Rennes, France. His work focuses on vulnerability assessment for programs against fault injection attacks, specifically in a context of multiple faults. He is working under the supervision of Damien Hardy, Karine Heydemann and Erven Rohou.
+
 *** Adversarial Reachability for Program-level Security Analysis
 :PROPERTIES:
 :CUSTOM_ID: ducousso
@@ -176,6 +177,22 @@ Antoine Gicquel is a second year Ph.D student in the PACAP team at Inria laborat
 
  *Bio*.
  Soline Ducousso obtained her engineering degree from ENSTA Paris in 2020 in the fields of cybersecurity and software architecture, and a Master degree from Université Paris-Saclay the same year in theoretical computer science and formal methods. She is currently conducting her PhD at the LSL lab in the French Alternative Energies and Atomic Energy Commission (CEA), in association with VERMIAG lab in Université Grenoble Alpes. Her subject is moving code analysis from safety to security: taking the attacker into account.
+
+*** Placement of software countermeasures: a compositional approach
+:PROPERTIES:
+:CUSTOM_ID: boespflug
+:END:
+
+*Étienne Boespflug* (Université de Grenoble Alpes -- VERIMAG)
+
+ *Résumé*.
+Fault attacks consist of changing the program behavior by injecting faults at runtime in order to compromise expected security properties. Multiple fault attacks enable attackers to bypass the implemented protections.
+At the software level, protections primarily involve program transformations aimed at blocking or detecting attacks. We will specifically focus on countermeasures that operate at the granularity of an injection point for two LLVM-level fault models: test inversion (the ability to alter the branch taken by the program during a test) and data load mutation (changing the value during a load).
+We propose a compositional approach that consists of isolation analysis and a placement algorithm. Isolation analysis aims to reason about countermeasures outside of program context, providing guarantees about the adequacy of the protection scheme against a specific fault model. It also computes the "vulnerability level", corresponding to the minimum number of faults required to produce an incorrect behavior on the protected IP with respect to a set of fault models (determining the attack surface of the countermeasures).
+Five placement algorithms are presented, relying on the vulnerability level and an exploration of attack paths in the program to produce a protected program. Each algorithm shows different complexity and robustness guarantees.
+
+ *Bio*.
+Etienne Boespflug is currently a post-doctoral researcher at VERIMAG. He completed a master’s degree in computer science and security at the University of Limoges and defended his thesis prepared at VERIMAG entitled "Tools for code and countermeasures analysis against multiple faults attacks" on 28/04/23.
 
 *** Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches
 :PROPERTIES:
