@@ -53,7 +53,7 @@ Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event
 |       | [[#marotta][Amélie Marotta]]          | Characterizing and Modeling Clock-Glitch Fault Injection                                                                                                        |
 | 10h45 |                         | Pause café - [[#posters][session posters]]                                                                                                                                    |
 | 11h30 |                         | *Session 2 -- Analyse de programmes*                                                                                                                              |
-|       | Antoine Gicquel         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                                               |
+|       | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                                               |
 |       | [[#ducousso][Soline Ducousso]]         | Adversarial Reachability for Program-level Security Analysis                                                                                                    |
 |       | Étienne Boespflug       | Placement of software countermeasures: a compositional approach                                                                                                 |
 | 12h30 |                         | Déjeuner                                                                                                                                                        |
@@ -149,6 +149,18 @@ During our presentation, we will introduce our approach to characterize the impa
  *Bio*.
  Amélie Marotta is a second-year PhD student in the TARAN team at Inria laboratory of the University of Rennes, France. Her work focuses on understanding how fault injection (electromagnetic fault injection, clock glitch) affect hardware components on FPGA (in particular, registers). She is working under the supervision of Olivier Sentieys, Ronan Lashermes, Rachid Dafali and Guillaume Bouffard.
 
+*** SAMVA: Static Analysis for Multi-Fault Attack Paths Determination
+:PROPERTIES:
+:CUSTOM_ID: gicquel
+:END:
+
+*Antoine Gicquel* (Univ Rennes, Inria, CNRS, IRISA, France)
+
+ *Résumé*.
+Multi-fault injection attacks are powerful since they allow to bypass software security mechanisms of embedded devices. Assessing the vulnerability of an application while considering multiple faults with various effects is an open problem due to the size of the fault space to explore. We propose SAMVA, a framework for efficiently searching vulnerabilities of applications in presence of multiple instruction-skip faults with various widths. SAMVA relies solely on static analysis to determine attack paths in a binary code. It is configurable with the fault injection capacity of the attacker and the attacker's objective. We evaluate the proposed approach on eight PIN verification programs containing various software countermeasures. Our framework finds numerous attack paths, even for the most hardened version, in very limited time.
+
+ *Bio*.
+Antoine Gicquel is a second year Ph.D student in the PACAP team at Inria laboratory of the University of Rennes, France. His work focuses on vulnerability assessment for programs against fault injection attacks, specifically in a context of multiple faults. He is working under the supervision of Damien Hardy, Karine Heydemann and Erven Rohou.
 *** Adversarial Reachability for Program-level Security Analysis
 :PROPERTIES:
 :CUSTOM_ID: ducousso
