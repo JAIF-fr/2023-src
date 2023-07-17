@@ -275,4 +275,17 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 |   | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                   |
 |   | Souhir Mhira            | Secure Manager                                                                                                         |
 |   | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                        |
-|   | Hongwei Zhao            | Fault attack on the communication architecture of a RISC-V based system                                                |
+|   | [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                |
+
+*** Fault attack on the communication architecture of a RISC-V based system
+:PROPERTIES:
+:CUSTOM_ID: zhao
+:END:
+
+*Hongwei Zhao* (Lab-STICC)
+
+*Résumé*.
+Fault attacks aim to disturb integrated circuits using methods such as power spikes, clock glitches or electromagnetic injection to break a security system or steal information. A SoC (System-on-Chip) is made up of numerous IPs which are connected to each other by a communication architecture. Our project focuses on the wishbone bus architecture of a RISC-V based system. A deep analysis of the wishbone bus architecture obtained using the LiteX framework has been carried out. Some vulnerabilities have been highlighted through fault injection simulations and possible attack vectors have been identified.
+
+*Bio*.
+Hongwei ZHAO received the engineer degree in electronic system from Telecom Saint-Étienne in 2020. He is currently Ph.D. student at Université Bretagne Sud and member of the Lab-STICC laboratory. His research interests include fault injection attacks, RISC-V-based SoC security.
