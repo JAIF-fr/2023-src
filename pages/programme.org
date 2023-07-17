@@ -60,7 +60,7 @@ Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event
 | 14h00 |                         | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |
 |       | [[#daveau][Jean-Marc Daveau]]        | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |
 |       | [[#hely][David Hély]]              | Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité |
-|       | [[#iooss][Alexandre Iooss]]         | Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches                                                                           |
+|       | [[#iooss][Alexandre Iooss, Guillaume Bouffard]] | Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches                                                                           |
 | 15h05 |                         | Pause café - [[#posters][session posters]]                                                                                                                                    |
 | 15h45 |                         | *Session 4 -- Caractérisation et vulnérabilités #2*                                                                                                               |
 |       | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks                                          |
@@ -199,38 +199,13 @@ Etienne Boespflug is currently a post-doctoral researcher at VERIMAG. He complet
 :CUSTOM_ID: iooss
 :END:
 
-*Alexandre Iooss* (ANSSI - Laboratoire Sécurité des Composants),
-Guillaume Bouffard (ANSSI - Laboratoire Architecures Matérielles et Logicielles)
+*Alexandre Iooss* (ANSSI -- Laboratoire Sécurité des Composants),
+*Guillaume Bouffard* (ANSSI -- Laboratoire Architectures Matérielles et Logicielles)
 
  *Résumé*.
-Les attaques par faute constituent un vecteur d'attaque semi-invasif puissant et difficile
-à prévenir dans l'applicatif si l'environnement
-d'exécution matérielle n'embarque pas de mécanismes de protection. Néanmoins
-ces attaques sont difficiles à mettre en place et les réussir nécessite trois étapes :
-caractériser les effets de la faute sur un échantillon du composant exécutant
-une application de profilage, utiliser ce modèle de faute sur l'application sensible (en simulation
-par exemple) afin de déterminer les chemins d'attaques possibles et
-exploiter l'effet de la faute injectée sur le composant cible. Dans la littérature,
-ce travail reste principalement porté sur la sécurité des implémentations cryptographiques
-implémentées sur des micro-contrôleurs.
+Les attaques par injections de fautes (FI) ne sont généralement pas considérées dans les modèles de sécurité des systèmes embarqués complexes. Cependant, elles constituent une menace pour la sécurité globale du système si un attaquant parvient à identifier et à reproduire une vulnérabilité par FI. La réussite de telles attaques implique cependant trois étapes : caractériser les effets d'une FI, modéliser les chemins d'attaque possibles par rapport aux effets des FI et exploiter l'impact des FI. Alors que les travaux antérieurs se sont principalement concentrés sur la sécurité des implémentations cryptographiques sur les microcontrôleurs, le développement d'appareils mobiles, tels que les smartphones, étend la menace d'attaques semi-invasives à un plus large éventail d'applications. Pour protéger efficacement ces systèmes, il est nécessaire de disposer d'une méthodologie permettant d'évaluer les conséquences au niveau du comportement du logiciel en cas de FI.
 
-Cependant, avec la démocratisation des appareils portables tels
-que les smartphones, la menace des attaques semi-invasives devient crédible pour
-des applications plus variées. Nous pensons que pour protéger efficacement ces
-systèmes, il est nécessaire d'avoir une méthodologie d'analyse de la réponse de ce
-type d'applications à des effets d'une faute sur le matériel jusqu'à sa manifestation
-sur les logiciels haut niveau.
-
-Dans cette présentation, nous aborderons une analyse complète allant de
-la caractérisation des effets d'une faute électromagnétique à l'exploitation sur
-une application complexe sensible. Pour ce faire, nous examinerons la sécurité
-de l'implémentation de l'application sudo intégrée dans la distribution GNU/Linux
-Raspberry Pi OS Lite  pour Raspberry Pi 4.
-Nous montrons comment il est possible de transposer une caractérisation
-de la sensibilité à une application logicielle complexe, et comment, en l'absence de protections,
-il est possible de réaliser efficacement une attaque permettant l'escalation de privilèges.
-Notre méthode est suffisamment efficace pour
-forcer l'authentification via l'application sudo sans la modifier au préalable.
+Dans cette présentation, nous décrivons comment transposer un modèle de faute obtenu depuis le jeu d'instruction sur un logiciel complexe, avec des bibliothèques partagées. Dans ce travail, nous nous focalisons sur la sécurité de l'application sudo packagée dans la distribution GNU/Linux Raspberry Pi OS pour Raspberry Pi 4. Dans cette présentation, nous démontrons comment la caractérisation de sensibilité FI peut être utilisée pour trouver des faiblesses dans des logiciels complexes et, qu'en l'absence de protections, une attaque peut effectivement réussir. Nous montrons que nous pouvons forcer l'authentification sans modifier le binaire cible de sudo.
 
 *Bios*.
 
