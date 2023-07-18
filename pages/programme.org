@@ -269,13 +269,14 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 :CUSTOM_ID: posters
 :END:
 
-|   | Vincent Beroulle        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |
-|   | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                          |
-|   | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |
-|   | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 |
-|   | Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
-|   | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |
-|   | [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |
+| Vincent Beroulle        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |
+| [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                          |
+| [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                    |
+| [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |
+| [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 |
+| Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
+| Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |
+| [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |
 
 *** Fault attack on the communication architecture of a RISC-V based system
 :PROPERTIES:
