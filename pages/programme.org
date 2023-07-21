@@ -276,6 +276,7 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |
 | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 |
 | Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
+| Gilles Olivier          | Stealth Jump Oriented Programming attacks on RISC-V applications                                                                     |
 | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |
 | [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |
 
