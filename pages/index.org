@@ -75,7 +75,7 @@ et est sponsorisée par
 <img src="./media/logo-Alphanov.png" alt="Logo Alpanov" title="Alpanov" data-align="center" height="80" /></a>
 
      
-<a href="https://www.anssi.fr">
+<a href="https://www.ssi.gouv.fr">
 <img src="./media/logo-ANSSI.png" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
 
      
