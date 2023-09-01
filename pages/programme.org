@@ -269,7 +269,7 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 :CUSTOM_ID: posters
 :END:
 
-| Vincent Beroulle        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                            |
+| [[#emsmaeilian][Vincent Beroulle]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                            |
 | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                            |
 | [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                  |
 | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                      |
@@ -280,6 +280,28 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                        |
 | [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                |
 
+*** Experimental Evaluation of Delayed-based Detectors against Power-off Attack
+:PROPERTIES:
+:CUSTOM_ID: esmaeilian
+:END:
+
+*Vincent Beroulle* (LCIS, Grenoble INP, Université Grenoble Alpes)
+
+*Résumé*.
+Les systèmes embarqués sont vulnérables aux attaques par injection de fautes
+(FIAs), donnant accès à des informations confidentielles. Les détecteurs
+d'attaques sont sensibles et peuvent être compromis. La robustesse des
+détecteurs est cruciale pour la sécurité des systèmes embarqués. L'objectif est
+d'évaluer la robustesse des circuits numériques et des détecteurs basés sur les
+délais contre l'attaque par coupure d'alimentation (Power-Off Attack - POA).
+Après une attaque POA, le circuit peut ne pas fonctionner correctement à la
+réactivation de l'alimentation, rendant possible d'autres attaques non détectées
+si les détecteurs sont moins sensibles. Deux détecteurs sont testés sur des FPGA
+Xilinx Artix-7, avec des variations de température en mode hors tension. Les
+résultats montrent que les détecteurs sont vulnérables à la POA, soulevant des
+problèmes de sécurité pour les systèmes embarqués.
+
+*Bio*.
 
 *** EM Probes Characterization for Electromagnetic Fault Injection Attack
 :PROPERTIES:
