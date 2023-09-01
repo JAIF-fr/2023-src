@@ -269,7 +269,7 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 :CUSTOM_ID: posters
 :END:
 
-| [[#emsmaeilian][Vincent Beroulle]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                            |
+| [[#beroulle][Vincent Beroulle]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                            |
 | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                            |
 | [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                  |
 | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                      |
@@ -282,7 +282,7 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 
 *** Experimental Evaluation of Delayed-based Detectors against Power-off Attack
 :PROPERTIES:
-:CUSTOM_ID: esmaeilian
+:CUSTOM_ID: beroulle
 :END:
 
 *Vincent Beroulle* (LCIS, Grenoble INP, Université Grenoble Alpes)
@@ -302,6 +302,13 @@ résultats montrent que les détecteurs sont vulnérables à la POA, soulevant d
 problèmes de sécurité pour les systèmes embarqués.
 
 *Bio*.
+Vincent Beroulle received the M.S. and Ph. D. degrees in microelectronics from
+the University of Science of Montpellier, France, in 1999 and 2002,
+respectively. In 2002, he joined the Grenoble Institute of Technology (Grenoble
+INP) as an Assistant-Professor and became Full Professor in 2019. He is
+currently director of the LCIS laboratory in Valence. His main research
+interests deal with the security and robustness of heterogeneous integrated
+systems.
 
 *** EM Probes Characterization for Electromagnetic Fault Injection Attack
 :PROPERTIES:
