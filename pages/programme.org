@@ -274,7 +274,7 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 | [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                                |
 | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                    |
 | [[#gilles][Oliver Gilles]]           | Execution at RISC: A new variant of Code Reuse Attacks targeting RISC-V Applications                                                 |
-| [[#micheland][Sébastien Michelland]]    | From hardware vulnerabilities to combined hardware/software countermeasure integration   |
+| [[#michelland][Sébastien Michelland]]    | From hardware vulnerabilities to combined hardware/software countermeasure integration   |
 | [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |
 | [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 |
 | Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
