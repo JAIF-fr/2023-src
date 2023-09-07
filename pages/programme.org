@@ -269,9 +269,9 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 :CUSTOM_ID: posters
 :END:
 
-| [[#beroulle][Vincent Beroulle]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |
 | [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                          |
 | [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                                |
+| [[#esmaeilian][Maryam Esmaeilian]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |
 | [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                    |
 | [[#gilles][Oliver Gilles]]           | Execution at RISC: A new variant of Code Reuse Attacks targeting RISC-V Applications                                                 |
 | [[#michelland][Sébastien Michelland]]    | From hardware vulnerabilities to combined hardware/software countermeasure integration   |
@@ -280,36 +280,6 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 | Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
 | Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |
 | [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |
-
-*** Experimental Evaluation of Delayed-based Detectors against Power-off Attack
-:PROPERTIES:
-:CUSTOM_ID: beroulle
-:END:
-
-*Vincent Beroulle* (LCIS, Grenoble INP, Université Grenoble Alpes)
-
-*Résumé*.
-Les systèmes embarqués sont vulnérables aux attaques par injection de fautes
-(FIAs), donnant accès à des informations confidentielles. Les détecteurs
-d'attaques sont sensibles et peuvent être compromis. La robustesse des
-détecteurs est cruciale pour la sécurité des systèmes embarqués. L'objectif est
-d'évaluer la robustesse des circuits numériques et des détecteurs basés sur les
-délais contre l'attaque par coupure d'alimentation (Power-Off Attack - POA).
-Après une attaque POA, le circuit peut ne pas fonctionner correctement à la
-réactivation de l'alimentation, rendant possible d'autres attaques non détectées
-si les détecteurs sont moins sensibles. Deux détecteurs sont testés sur des FPGA
-Xilinx Artix-7, avec des variations de température en mode hors tension. Les
-résultats montrent que les détecteurs sont vulnérables à la POA, soulevant des
-problèmes de sécurité pour les systèmes embarqués.
-
-*Bio*.
-Vincent Beroulle received the M.S. and Ph. D. degrees in microelectronics from
-the University of Science of Montpellier, France, in 1999 and 2002,
-respectively. In 2002, he joined the Grenoble Institute of Technology (Grenoble
-INP) as an Assistant-Professor and became Full Professor in 2019. He is
-currently director of the LCIS laboratory in Valence. His main research
-interests deal with the security and robustness of heterogeneous integrated
-systems.
 
 *** EM Probes Characterization for Electromagnetic Fault Injection Attack
 :PROPERTIES:
@@ -340,6 +310,36 @@ where he is actively engaged in Designing High-Performance EM probes for EMFI.
 :PROPERTIES:
 :CUSTOM_ID: gilles
 :END:
+
+*** Experimental Evaluation of Delayed-based Detectors against Power-off Attack
+:PROPERTIES:
+:CUSTOM_ID: esmaeilian
+:END:
+
+*Maryam Esmaeilian* (LCIS, Grenoble INP, Université Grenoble Alpes)
+
+*Résumé*.
+Les systèmes embarqués sont vulnérables aux attaques par injection de fautes
+(FIAs), donnant accès à des informations confidentielles. Les détecteurs
+d'attaques sont sensibles et peuvent être compromis. La robustesse des
+détecteurs est cruciale pour la sécurité des systèmes embarqués. L'objectif est
+d'évaluer la robustesse des circuits numériques et des détecteurs basés sur les
+délais contre l'attaque par coupure d'alimentation (Power-Off Attack - POA).
+Après une attaque POA, le circuit peut ne pas fonctionner correctement à la
+réactivation de l'alimentation, rendant possible d'autres attaques non détectées
+si les détecteurs sont moins sensibles. Deux détecteurs sont testés sur des FPGA
+Xilinx Artix-7, avec des variations de température en mode hors tension. Les
+résultats montrent que les détecteurs sont vulnérables à la POA, soulevant des
+problèmes de sécurité pour les systèmes embarqués.
+
+*Bio*.
+Maryam Esmaeilian received her Computer Architecture and Embedded Systems
+Security MSc degrees from Iran University of Science and Technology (IUST) and
+Grenoble INP Esisar in 2022 and 2023, respectively. She was a research intern at
+the Systems Design and Integration Laboratory (LCIS) during two semesters in
+2022 and 2023, working on power-off attacks. Her research interests include
+computer architecture security and countermeasures against fault injection and
+hardware attacks.
 
 *Olivier Gilles* (Thales R&T)
 
