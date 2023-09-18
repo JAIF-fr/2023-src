@@ -2,6 +2,8 @@
 #+OPTIONS: toc:nil
 #+title: JAIF
 
+- [2023-09-05 mar.]  Il n'y a plus de places pour une participation en présentiel !  Une liste d'attente est ouverte dans le formulaire d'inscription ci-dessous.
+
 *La participation à la journée est gratuite mais l'inscription est
 obligatoire* pour l'organisation logistique de la journée.  Le nombre
 de participants en présentiel est limité par la capacité d'accueil de
