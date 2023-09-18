@@ -30,26 +30,15 @@ Coordonnées GPS: 43° 26’ 44″ N / 05° 28’ 47″ E
 :CUSTOM_ID: navettes
 :END:
 
+Un car sera spécialement affrété pour les participants de JAIF.
 
-[ *sous réserve de confirmation* ] Une navette sera spécialement affrétée pour les participants de JAIF, entre la gare TGV d’Aix-en-Provence et le CMP (arrêt intermédiaire à la gare de Gardanne).
-
-Les horaires seront précisés ultérieurement.
-
-** Accès en transports en commun depuis la gare SNCF de Gardanne
-
-Il existe des navettes régulières par la ligne 3 (Omnibus Gardanne) entre la Gare et le campus de Gardanne le matin et en fin d’après-midi.
-- Réservation possible entre 9h30 et 15h45 (la veille ou au minimum 4 heures avant la course).
-- Numéro vert : 0 800 00 32 35.
-- En savoir plus : https://www.ville-gardanne.fr.
-
-
-L’école est desservie par la ligne de bus n° 183, arrêt « Centre Charpak ».
-
-
-
-Vous pourrez y prendre aussi un bus de la ligne 64, qui permet, entre autres, de rejoindre la gare Saint-Charles, à Marseille, en 30 minutes.
-
-
+- Matin.
+   Départ à 8h00, pour une arrivée à 9h00.
+   Aix gare (centre ville) -> Gardanne gare -> JAIF / CMP.
+- Soir.  Départ à 17h10.
+    JAIF / CMP -> Gare de Gardanne -> Aix TGV -> Aix gare (centre ville).
+- Navette départ 19h10 (fin du social event).
+    JAIF / CMP -> Gare de Gardanne -> Aix gare (centre ville)
 
 ** Covoiturage
 :PROPERTIES:
@@ -58,6 +47,28 @@ Vous pourrez y prendre aussi un bus de la ligne 64, qui permet, entre autres, de
 
 Un document partagé est ouvert ici pour l'organisation du covoiturage :
 [[https://semestriel.framapad.org/p/jaif2023-covoiturage-a2yf?lang=en][jaif2023-covoiturage-a2yf | Framapad semestriel]]
+
+** Accès en transports en commun
+
+*** Gardanne gare SNCF -- campus de Gardanne
+
+Il existe des navettes régulières par la ligne 3 (Omnibus Gardanne) entre la Gare et le campus de Gardanne le matin et en fin d’après-midi.
+- Réservation possible entre 9h30 et 15h45 (la veille ou au minimum 4 heures avant la course).
+- Numéro vert : 0 800 00 32 35.
+- En savoir plus : https://www.ville-gardanne.fr.
+
+L’école est desservie par la ligne de bus n° 183, arrêt « Centre Charpak ».
+
+
+*** Gardanne  -- Marseille
+
+Vous pourrez y prendre aussi un bus de la ligne 64, qui permet, entre autres, de rejoindre la gare Saint-Charles, à Marseille, en 30 minutes.
+
+
+*** Marseille -- Aix-en-Provence -- Aix-TGV
+
+ [[https://www.lepilote.com/ftp/document/fiche-horaire-2022-40-fr.pdf][fiche-horaire-2022-40-fr.pdf]]
+
 
 ** Hotels
 
