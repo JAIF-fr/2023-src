@@ -4,7 +4,7 @@
 
 # Des *navettes* et du *covoiturage* seront mis en place *entre la gare de Aix-TGV et Gardanne*.
 
-
+- [2023-09-18 lun.]   Un framapad a été ouvert pour les propositions et les demandes de [[#covoiturage][co-voiturage.]]
 
 ** Lieu
 :PROPERTIES:
@@ -33,8 +33,6 @@ Coordonnées GPS: 43° 26’ 44″ N / 05° 28’ 47″ E
 
 Une navette sera spécialement affrétée pour les participants de JAIF, entre la gare TGV d’Aix-en-Provence et le CMP (arrêt intermédiaire à la gare de Gardanne).
 
-Une solution de  *covoiturage* sera également mise en place *entre la gare de Aix-TGV et Gardanne*.
-
 Les horaires seront précisés ultérieurement.
 
 ** Accès en transports en commun depuis la gare SNCF de Gardanne
@@ -52,6 +50,14 @@ L’école est desservie par la ligne de bus n° 183, arrêt « Centre Charpak �
 Vous pourrez y prendre aussi un bus de la ligne 64, qui permet, entre autres, de rejoindre la gare Saint-Charles, à Marseille, en 30 minutes.
 
 
+
+** Covoiturage
+:PROPERTIES:
+:CUSTOM_ID:       covoiturage
+:END:
+
+Un document partagé est ouvert ici pour l'organisation du covoiturage :
+[[https://semestriel.framapad.org/p/jaif2023-covoiturage-a2yf?lang=en][jaif2023-covoiturage-a2yf | Framapad semestriel]]
 
 ** Hotels
 
