@@ -66,10 +66,16 @@ et est sponsorisée par
 [[https://www.secure-ic.com/][Secure-IC]],
 [[https://www.brightsight.com][SGS-Brightsight]],
 [[https://www.st.com/][STMicroelectronics]],
+[[https://www.thalesgroup.com][Thales.]]
 
 #+BEGIN_EXPORT html
 <br></br>
 <center>
+<p>
+<a href="https://www.thalesgroup.com">
+<img src="./media/logo-Thales.png" alt="Logo Thales" title="Thales" data-align="center" height="80" /></a>
+</p>
+
 <p>
 <a href="https://www.alphanov.com">
 <img src="./media/logo-Alphanov.png" alt="Logo Alpanov" title="Alpanov" data-align="center" height="80" /></a>
