@@ -5,7 +5,7 @@
 # Des *navettes* et du *covoiturage* seront mis en place *entre la gare de Aix-TGV et Gardanne*.
 
 - [2023-09-18 lun.]   Un framapad a été ouvert pour les propositions et les demandes de [[#covoiturage][co-voiturage.]]
-- [2023-09-20 mer.]   Un framapad a été ouvert pour inscription à la [[#navettes][navette vers CMP / JAIF]].
+- [2023-09-20 mer.]   Des framapads sont ouverts pour inscription [[#navettes][aux navettes vers CMP / JAIF]].
 
 ** Lieu
 :PROPERTIES:
@@ -34,14 +34,22 @@ Coordonnées GPS: 43° 26’ 44″ N / 05° 28’ 47″ E
 Un car sera spécialement affrété pour les participants de JAIF.
 
 
-- Matin.
+- *Matin, arrivée à JAIF*.
    Départ à 8h00, pour une arrivée à 9h00.
    Aix gare (centre ville) -> Gardanne gare -> JAIF / CMP.
-   - [[https://lite.framacalc.org/jaif2023-bus-a3c8][--> inscription sur le framapad <--]]
-- Soir.  Départ à 17h10.
+
+   [[https://lite.framacalc.org/jaif2023-bus-matin-a3ca][--> inscription sur le framapad,  navette d'arrivée à JAIF <--]]
+
+- *Fin d'après midi, départ de JAIF*.  Départ à 17h10.
     JAIF / CMP -> Gare de Gardanne -> Aix TGV -> Aix gare (centre ville).
-- Navette départ 19h10 (fin du social event).
+
+    [[https://lite.framacalc.org/aif2023-bus-postJAIF][--> inscription sur le framapad, navette post-JAIF <--]]
+
+- *Fin du social event, départ du CMP*.
+   Départ à 19h10 (fin du social event).
     JAIF / CMP -> Gare de Gardanne -> Aix gare (centre ville)
+
+    [[https://lite.framacalc.org/aif2023-bus-post-socialevent][--> inscription sur le framapad, navette post- social event <--]]
 
 ** Covoiturage
 :PROPERTIES:
