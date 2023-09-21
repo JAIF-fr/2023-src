@@ -35,19 +35,17 @@ Un car sera spécialement affrété pour les participants de JAIF.
 
 
 - *Matin, arrivée à JAIF*.
-   Départ à 8h00, pour une arrivée à 9h00.
-   Aix gare (centre ville) -> Gardanne gare -> JAIF / CMP.
+   Aix gare (centre ville) 8h15 >> Gardanne gare 8h45 >> JAIF / CMP 09h00.
 
-   [[https://lite.framacalc.org/jaif2023-bus-matin-a3ca][--> inscription sur le framapad,  navette d'arrivée à JAIF <--]]
+   [[https://lite.framacalc.org/jaif2023-bus-matin-a3ca][-> inscription sur le framapad,  navette d'arrivée à JAIF <--]]
 
-- *Fin d'après midi, départ de JAIF*.  Départ à 17h10.
-    JAIF / CMP -> Gare de Gardanne -> Aix TGV -> Aix gare (centre ville).
+- *Fin d'après midi, départ de JAIF*.
+    JAIF / CMP 17h00 >> Gare de Gardanne 17h15 >> Aix TGV 17h45 >> Aix gare (centre ville) 18h25.
 
     [[https://lite.framacalc.org/aif2023-bus-postJAIF][--> inscription sur le framapad, navette post-JAIF <--]]
 
 - *Fin du social event, départ du CMP*.
-   Départ à 19h10 (fin du social event).
-    JAIF / CMP -> Gare de Gardanne -> Aix gare (centre ville)
+    JAIF / CMP 19h00 >> Gare de Gardanne 19h15 >> Aix gare (centre ville) 19h45
 
     [[https://lite.framacalc.org/aif2023-bus-post-socialevent][--> inscription sur le framapad, navette post- social event <--]]
 
