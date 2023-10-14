@@ -269,17 +269,17 @@ Cette étude fournit des résultats expérimentaux d’injections de fautes aux 
 :CUSTOM_ID: posters
 :END:
 
-| [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                          |
-| [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                                |
-| [[#esmaeilian][Maryam Esmaeilian]]        | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |
-| [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                    |
-| [[#gilles][Oliver Gilles]]           | Execution at RISC: A new variant of Code Reuse Attacks targeting RISC-V Applications                                                 |
-| [[#michelland][Sébastien Michelland]]    | From hardware vulnerabilities to combined hardware/software countermeasure integration   |
-| [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |
-| [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 |
-| Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |
-| Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |
-| [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |
+| [[#chancel][Geoffrey Chancel]]        | Bonnes pratiques pour l'injection de fautes par impulsions dans le substrat                                                          |        |
+| [[#daher][Elie Daher]]              | EM Probes Characterization for Electromagnetic Fault Injection Attack                                                                |        |
+| [[#esmaeilian][Maryam Esmaeilian]]       | Experimental Evaluation of Delayed-based Detectors against Power-off Attack                                                          |        |
+| [[#gicquel][Antoine Gicquel]]         | SAMVA: Static Analysis for Multi-Fault Attack Paths Determination                                                                    |        |
+| [[#gilles][Oliver Gilles]]           | Execution at RISC: A new variant of Code Reuse Attacks targeting RISC-V Applications                                                 |        |
+| [[#michelland][Sébastien Michelland]]    | From hardware vulnerabilities to combined hardware/software countermeasure integration                                               |        |
+| [[#pensec][William Pensec]]          | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks               |        |
+| [[#postel-pellerin][Jérémie Postel-Pellerin]] | Caractérisation électrique en temps réel lors d'une attaque laser à 1064 nm sur une mémoire STT-MRAM                                 | [[file:media/JAIF2023-Postel-Pellerin-poster.pdf][poster]] |
+| Souhir Mhira            | ST's Certified and Maintained Turnkey Solution Secure Manager with Trusted Execution Environment for Complete Protection of Your MCU |        |
+| Pierre-Antoine Tissot   | BALoo: First and Efficient Countermeasure dedicated to Persistent Fault Attacks                                                      |        |
+| [[#zhao][Hongwei Zhao]]            | Fault attack on the communication architecture of a RISC-V based system                                                              |        |
 
 *** EM Probes Characterization for Electromagnetic Fault Injection Attack
 :PROPERTIES:
