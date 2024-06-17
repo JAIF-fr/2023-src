@@ -5,9 +5,7 @@
 #+OPTIONS: toc:nil
 #+title: JAIF 2023 -- programme
 
-Le programme est en cours de construction.
-
-Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event][poursuivre la journée avec un social event]] à proximité du CMP.  Détails à venir.
+Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event][poursuivre la journée avec un social event]] à proximité du CMP.
 
 # *** <titre>
 #
