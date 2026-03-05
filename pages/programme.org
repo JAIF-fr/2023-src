@@ -58,7 +58,7 @@ Nous proposons aux participants de JAIF de [[./infos-pratiques.html#social event
 | 14h00        |                                     | *Session 3 -- Methodes et outils pour la sûreté et la sécurité*                                                                                                   |        |
 |              | [[#daveau][Jean-Marc Daveau]]                    | Injection de fautes : Expériences dans un contexte industriels pour le durcissement de circuits                                                                 |        |
 |              | [[#hely][David Hély]]                          | Evaluation et caractérisation des attaques en fautes dès les premières étapes de la conception des circuit intégrés: outils de conception en vue de la sécurité |        |
-|              | [[#iooss][Alexandre Iooss, Guillaume Bouffard]] | Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches                                                                           | [[file:media/JAIF2023-slides-Iooss-Bouffard.pdf][slides]] |
+|              | [[#iooss][Ambre Iooss, Guillaume Bouffard]] | Pew Pew, I'm root! De la caractérisation à l'exploitation: un voyage plein d'embûches                                                                           | [[file:media/JAIF2023-slides-Iooss-Bouffard.pdf][slides]] |
 | 15h10        |                                     | Pause café - [[#posters][session posters]]                                                                                                                                    |        |
 | 15h50        |                                     | *Session 4 -- Caractérisation et vulnérabilités #2*                                                                                                               |        |
 |              | [[#pensec][William Pensec]]                      | Unveiling the Invisible Threads: Dynamic Information Flow Tracking and the Intriguing World of Fault Injection Attacks                                          | [[file:media/JAIF2023-slides-Pensec.pdf][slides]] |
@@ -197,7 +197,7 @@ Etienne Boespflug is currently a post-doctoral researcher at VERIMAG. He complet
 :CUSTOM_ID: iooss
 :END:
 
-*Alexandre Iooss* (ANSSI -- Laboratoire Sécurité des Composants),
+*Ambre Iooss* (ANSSI -- Laboratoire Sécurité des Composants),
 *Guillaume Bouffard* (ANSSI -- Laboratoire Architectures Matérielles et Logicielles)
 
  *Résumé*.
@@ -207,7 +207,7 @@ Dans cette présentation, nous décrivons comment transposer un modèle de faute
 
 *Bios*.
 
-Alexandre Iooss est ingénieur de recherche à l'ANSSI à Rennes.
+Ambre Iooss est ingénieur de recherche à l'ANSSI à Rennes.
 Ses travaux portent sur le développement d'outils d'analyse de la sécurité matérielle. Il
 développe des simulateurs de canaux auxiliaires et d'injections de fautes. Il se passionne
 également pour le développement de logiciels libres.
